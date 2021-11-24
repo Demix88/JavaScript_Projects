@@ -1,0 +1,38 @@
+body {
+    background-color: cadetblue;
+}
+.daffy {
+    width: 200px;
+    height: 300px;
+    
+}
+.button {
+    background-color: #4CAF50; /* Green */
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .button1 {
+    background-color:#f44336;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    align-items: center;
+  }
+  p {
+      font-family: Apple Chancery, cursive;
+      color:chartreuse;
+  }
