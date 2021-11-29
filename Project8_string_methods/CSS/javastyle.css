@@ -1,0 +1,14 @@
+body {
+    background-color: #DCDCDC;
+}
+button {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border-radius:12px;
+    padding: 15px 32px;
+    width: 200px;
+    background-color: turquoise;
+    font-size: larger;
+}
+p {
+    font-family:URW Chancery L, cursive ;
+}
